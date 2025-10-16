@@ -22,11 +22,13 @@ Algunas de sus características más destacadas son:
 
 
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
+
 Podés visitar el sitio acá 
 
 👉 https://elysiumja.netlify.app/
 
 Y ver el código fuente y documentación en este repositorio de GitHub.
+
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 
 Si bien todavía no tengo experiencia directa con plataformas como Tiendanube, Empretienda, u otras similares, tengo una base sólida en desarrollo web y aprendo muy rápido cuando se trata de nuevas herramientas o entornos.
